@@ -4,7 +4,7 @@ Um simples e divertido jogo da memória feito com HTML, CSS e JavaScript, utiliz
 
 ## 🚀 Demonstração
 
-[👉 Acesse o jogo online aqui](https://tgk-dragon.github.io/Memory-Game/)
+[👉 Acesse o jogo online aqui](https://jonas-jt.github.io/Memory-Game/)
 
 ---
 
